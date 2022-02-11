@@ -34,6 +34,10 @@ h3 {
     margin: 0;
 }
 
+.wrapper {
+    min-height: 100%;
+}
+
 .container {
     max-width: 865px;
     padding: 0 5px;
@@ -61,6 +65,10 @@ h3 {
 
 .about__container {
     display: flex;
+}
+
+.about__info {
+    padding-right: 13%;
 }
 
 .about__avatar {
