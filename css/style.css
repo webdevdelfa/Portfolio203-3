@@ -85,6 +85,11 @@ h3 {
     object-fit: cover;
 }
 
+.title-category {
+    font-size: 22px;
+    color: #21243D;
+}
+
 .recent-posts {
     background-color: #EDF7FA;
     padding: 27px 0px 32px;
